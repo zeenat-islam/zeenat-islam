@@ -20,11 +20,7 @@
 Here are some of my small but meaningful projects:  
 - 🎯 [Number Guessing Game](#) — A fun guessing game built with JS logic  
 - 💰 [Expense Tracker](#) — Add, edit, and delete daily expenses with total calculation  
-- 📰 [News Portal](#) — A PHP-based dynamic web project displaying categorized news  
 
-*(You can replace `#` with your actual GitHub repo links!)*
-
----
 
 ### 🛠️ Skills & Tools  
 <p align="center">
